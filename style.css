@@ -1,0 +1,42 @@
+
+h1{
+    color:white;
+    
+}
+
+p,h2{
+    color:#000000;
+    text-align: center;
+}
+
+/* *{
+    border:solid
+} */
+
+.header{
+    background-color: #000000;
+    display:flex;
+    justify-content: center;
+}
+
+.grid{
+    background-color: #e0ebeb;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.item{
+    padding:10px;
+}
+
+a{
+    color:#000000;
+    padding:10px
+}
